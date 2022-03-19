@@ -1,6 +1,6 @@
 ## Overview
 
-Supply Chain Integrity, Transparency and Trust (SCITT) is an architecture that supports the ongoing verification of goods and services, including hardware and software, where the authenticity of entities, evidence, policy, and artifacts can be assured and the actions of entities can be guaranteed to be authorized, non-repudiable, immutable, and auditable. SCITT is a proposed industry standard, easing the path for uniform data flow across globally distributed supply chains.
+Supply Chain Integrity, Transparency and Trust (SCITT) is an architecture that supports the ongoing verification of goods and services across end-to-end supply chains where the authenticity of entities, evidence, policy, and artifacts can be assured and the actions of entities can be guaranteed to be authorized, non-repudiable, immutable, and auditable. SCITT is a proposed industry standard, easing the path for uniform data flow across globally distributed supply chains.
 
 ## Contributing
 
