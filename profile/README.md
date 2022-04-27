@@ -10,7 +10,7 @@ The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set o
 
 ### General Meetings:
 - SCITT general  meetings are held each Monday at 8 AM Pacific.
-- Meeting link [here](https://teams.microsoft.com/l/meetup-join/19%3awkcX6YXFdc4drKQRJ81TD6VrZFhreo81JnfUKihgNyM1%40thread.tacv2/1650660267368?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222a36463b-58f3-4390-b4ff-a30f5d1866fa%22%7d)
+- Meeting link [here](https://ws.conf.meetecho.com/conference/?group=e1e1626c-4661-439d-9a2b-f329295defc1)
 - Meeting Agenda and Minutes [here](https://docs.google.com/document/d/1vf-EliXByhg5HZfgVbTqZhfaJFCmvMdQuZ4tC-Eq6wg/edit?usp=sharing)
 - Meeting Videos: [here](https://www.youtube.com/playlist?list=PLbB5UJQyY-2WZ6r1AK1njicgwcowVypet)
 
