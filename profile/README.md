@@ -14,6 +14,6 @@ The Supply Chain Integrity, Transparency and Trust (SCITT) initiative is a set o
 - Meeting Agenda and Minutes [here](https://docs.google.com/document/d/1vf-EliXByhg5HZfgVbTqZhfaJFCmvMdQuZ4tC-Eq6wg/edit?usp=sharing)
 - Meeting Videos: [here](https://www.youtube.com/playlist?list=PLbB5UJQyY-2WZ6r1AK1njicgwcowVypet)
 
-### Technical Meetings:
-- SCITT technical meetings are held every other Thursday at 8 AM Pacific.
+### Design Meetings:
+- SCITT design meetings are held every other Thursday at 8 AM Pacific.
 - Meeting link [here](https://teams.microsoft.com/l/meetup-join/19%3a84f5933bbce549678d0202429ced8257%40thread.tacv2/1650660013566?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%222a36463b-58f3-4390-b4ff-a30f5d1866fa%22%7d)
